@@ -1,3 +1,5 @@
 # Pruebas de ejercicios.
 
-Hola
+Hola !!
+Esto son pruebas y ejercicios de python. 
+
