@@ -6,7 +6,7 @@ Python, viene por el grupo de Monty Python.
 
 **Lenguaje de alto nivel**
 Un lenguaje de alto nivel es un lenguaje que se aproxima a la sintaxis del idioma. 
-Es una grmática clara, sencilla y legible. 
+Es una gramática clara, sencilla y legible. 
 
 **Tipado dinámico fuerte**
 El lenguaje distingue de manera clara las diferencias de los tipos.
